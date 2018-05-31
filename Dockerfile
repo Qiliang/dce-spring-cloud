@@ -1,4 +1,4 @@
-FROM 8-jdk
+FROM openjdk:8-jdk
 
 LABEL maintainer "qiliang.xiao@daocloud.io"
 
