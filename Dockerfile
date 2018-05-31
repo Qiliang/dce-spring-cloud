@@ -1,4 +1,4 @@
-FROM java
+FROM 8-jdk
 
 LABEL maintainer "qiliang.xiao@daocloud.io"
 
